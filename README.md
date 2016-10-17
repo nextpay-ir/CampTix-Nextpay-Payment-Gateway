@@ -1,2 +1,2 @@
-# CampTix-Nextpay-Payment-Gateway
-Nextpay CampTix Payment Gateway.
+# WordPress-CampTix-Nextpay-Payment-Gateway
+WordPress Nextpay CampTix Payment Gateway.
